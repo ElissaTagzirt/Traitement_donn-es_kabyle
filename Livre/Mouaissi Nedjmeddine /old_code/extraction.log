@@ -1,0 +1,8 @@
+2025-03-20 16:09:20,680 [INFO] Nombre de PDFs à traiter : 3
+2025-03-20 16:09:20,699 [INFO] Début du traitement de : ./PDFs/test/7_Mas. Amz. 293.pdf
+2025-03-20 16:09:20,700 [INFO] Début du traitement de : ./PDFs/test/14_Mas. Amz. 214.pdf
+2025-03-20 16:09:20,700 [INFO] Début du traitement de : ./PDFs/test/1_Mas. Amz. 1115.pdf
+2025-03-20 16:09:20,808 [INFO] Fichier Markdown créé : ./PDFs/test/amcic/1_Mas. Amz. 1115.md
+2025-03-20 16:09:20,862 [INFO] Fichier Markdown créé : ./PDFs/test/amcic/7_Mas. Amz. 293.md
+2025-03-20 16:09:20,934 [INFO] Fichier Markdown créé : ./PDFs/test/amcic/14_Mas. Amz. 214.md
+2025-03-20 16:09:20,941 [INFO] Traitement terminé.

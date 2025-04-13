@@ -1,0 +1,55 @@
+2025-04-13 11:45:56,612 - INFO - Utilisation du GPU: Non
+2025-04-13 11:45:57,417 - INFO - Nombre de fichiers à traiter : 0
+2025-04-13 11:45:57,417 - INFO - Traitement complet de tous les fichiers.
+2025-04-13 12:17:07,659 - INFO - Utilisation du GPU: Non
+2025-04-13 12:17:08,760 - INFO - Nombre de fichiers à traiter : 10
+2025-04-13 12:17:08,760 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/103_Meziane U Muh.md
+2025-04-13 12:38:59,116 - INFO - Utilisation du GPU: Non
+2025-04-13 12:39:00,287 - INFO - Nombre de fichiers à traiter : 10
+2025-04-13 12:39:00,288 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/103_Meziane U Muh.md
+2025-04-13 13:15:09,286 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/103_Meziane U Muh.md
+2025-04-13 13:15:09,287 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/19.md
+2025-04-13 13:31:25,024 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/19.md
+2025-04-13 13:31:25,025 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 13:51:06,841 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 13:51:06,842 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 13:55:06,666 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 13:55:07,767 - INFO - Nombre de fichiers à traiter : 7
+2025-04-13 13:55:07,777 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:04:11,079 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:04:11,079 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/104_Mokrane Chikhi.md
+2025-04-13 14:12:58,721 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/104_Mokrane Chikhi.md
+2025-04-13 14:12:58,722 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/AGU-omar-dahmoune-agu-pdf.md
+2025-04-13 14:24:16,604 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 14:24:17,872 - INFO - Nombre de fichiers à traiter : 7
+2025-04-13 14:24:17,874 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:52:05,909 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 14:52:06,629 - INFO - Nombre de fichiers à traiter : 7
+2025-04-13 14:52:06,630 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:52:55,307 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 14:52:56,034 - INFO - Nombre de fichiers à traiter : 7
+2025-04-13 14:52:56,035 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:53:51,148 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/Ageldun-amectuh_St-Exupery_Tasaghelt.md
+2025-04-13 14:53:51,149 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/104_Mokrane Chikhi.md
+2025-04-13 14:54:26,497 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/104_Mokrane Chikhi.md
+2025-04-13 14:54:26,497 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/AGU-omar-dahmoune-agu-pdf.md
+2025-04-13 14:55:05,021 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/AGU-omar-dahmoune-agu-pdf.md
+2025-04-13 14:55:05,022 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/060_Said Chemakh.md
+2025-04-13 14:55:11,906 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/060_Said Chemakh.md
+2025-04-13 14:55:11,906 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/21_Mohand Mehrazi.md
+2025-04-13 15:01:10,565 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/21_Mohand Mehrazi.md
+2025-04-13 15:01:10,567 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/ABRID-isekkilen-Bookman-old-styl12.md
+2025-04-13 15:02:01,710 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/ABRID-isekkilen-Bookman-old-styl12.md
+2025-04-13 15:02:01,711 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/Aklan n tayri akked tullisin nni_en.md
+2025-04-13 15:03:19,343 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/Aklan n tayri akked tullisin nni_en.md
+2025-04-13 15:03:19,344 - INFO - Traitement complet de tous les fichiers.
+2025-04-13 15:14:41,024 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 15:14:42,120 - INFO - Nombre de fichiers à traiter : 1
+2025-04-13 15:14:42,122 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 15:18:31,645 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 15:18:31,648 - INFO - Traitement complet de tous les fichiers.
+2025-04-13 15:20:43,810 - INFO - Utilisation du GPU: Non (mode CPU uniquement)
+2025-04-13 15:20:44,884 - INFO - Nombre de fichiers à traiter : 1
+2025-04-13 15:20:44,886 - INFO - Traitement du fichier : ../data/pdfs_etat_2_separation/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 15:24:18,752 - INFO - Fichier traité et sauvegardé dans : ../data/pdfs_etat_3_tagged/lot1/a_revoir/AKKEN_QQAREN_MEDDEN_Mohia_GEB_1978.md
+2025-04-13 15:24:18,755 - INFO - Traitement complet de tous les fichiers.
