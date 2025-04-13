@@ -1,0 +1,4 @@
+Fichier ;Nombre de lignes ;Nombre total de tokens ;Moyenne de tokens par ligne ;Top 10 tokens
+Corpus_05_Matrexdz/kabylesSentens/extracted_text_from_Kabyledata.md ;115104 ;688939 ;5.99 ;,d: 39361; i: 23255; ad: 22714; n: 16589; ara: 14136; Ur: 10605; deg: 10331; ur: 8877; s: 8834; D: 6847
+Corpus_05_Matrexdz/kabylesSentens/Kabyledata.md ;115387 ;1958614 ;16.97 ;,"{: 115387; ""fr"":: 115387; ""kab"":: 115387; }: 115387; d: 39713; i: 23514; de: 23465; ad: 22840; n: 16783; ""	Je: 15323"
+Corpus_05_Matrexdz/kabylesSentens/kabyleSentens.md ;453845 ;2947155 ;6.49 ;,d: 156158; ad: 120454; n: 86244; ur: 67722; i: 67623; ara: 55665; tom: 55301; deg: 47688; ay: 43949; s: 38499

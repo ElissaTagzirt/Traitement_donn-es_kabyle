@@ -1,0 +1,4 @@
+Fichier ;Nombre de lignes ;Nombre total de tokens ;Moyenne de tokens par ligne ;Top 10 tokens
+Corpus_10_sferhah/tamacahut_n_wuccen/output.md ;68 ;9988 ;146.88 ;,d: 655; ad: 294; n: 225; s: 175; i: 161; yas: 129; t: 121; ur: 119; as: 113; deg: 103
+Corpus_10_sferhah/tamacahut_n_wuccen/tamacahut_n_wuccen_fr-kab.md ;136 ;23624 ;173.71 ;,d: 655; le: 516; la: 435; de: 428; et: 368; ad: 294; n: 225; :: 222; les: 208; à: 182
+Corpus_10_sferhah/tamacahut_n_wuccen/tamacahut_n_wuccen_kab.md ;68 ;9988 ;146.88 ;,d: 655; ad: 294; n: 225; s: 175; i: 161; yas: 129; t: 121; ur: 119; as: 113; deg: 103

@@ -1,0 +1,8 @@
+Fichier ;Nombre de lignes ;Nombre total de tokens ;Moyenne de tokens par ligne ;Top 10 tokens
+Corpus_02_nabil509/kab-corpus/corpus-001.md ;100 ;707 ;7.07;,d: 43; n: 22; i: 21; ad: 15; deg: 14; ur: 10; s: 9; t: 8; tt: 8; as: 8
+Corpus_02_nabil509/kab-corpus/README.md ;12 ;124 ;10.33;,in: 4; CC0: 3; #: 3; this: 3; are: 3; any: 3; the: 3; Kabyle: 2; lingual: 2; sentences: 2
+Corpus_02_nabil509/kab-corpus/corpus-003.md ;100 ;637 ;6.37;,d: 43; i: 32; deg: 15; n: 12; as: 11; ad: 8; ur: 7; s: 7; ara: 6; ɣef: 5
+Corpus_02_nabil509/kab-corpus/corpus-005.md ;100 ;620 ;6.20;,d: 52; deg: 16; i: 15; ad: 14; n: 14; ur: 11; s: 10; ɣef: 10; as: 8; is: 7
+Corpus_02_nabil509/kab-corpus/corpus-002.md ;100 ;659 ;6.59;,d: 49; i: 29; ad: 20; deg: 12; n: 10; as: 9; ur: 9; s: 8; D: 8; ar: 7
+Corpus_02_nabil509/kab-corpus/corpus-004.md ;100 ;711 ;7.11;,d: 35; ad: 28; i: 21; n: 17; deg: 14; s: 11; ur: 10; as: 10; ɣef: 8; ma: 7
+Corpus_02_nabil509/kab-corpus/food-and-cooking/corpus-001-food-and-cooking.md ;100 ;712 ;7.12;,d: 54; ad: 30; n: 24; i: 21; as: 16; s: 9; ur: 8; D: 8; deg: 7; ma: 7
