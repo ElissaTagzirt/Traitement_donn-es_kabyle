@@ -1,0 +1,5 @@
+Fichier ;Nombre de lignes ;Nombre total de tokens ;Moyenne de tokens par ligne ;Top 10 tokens
+Corpus_08_benmohammedYoucef/tifyar/tudert.md ;25 ;120 ;4.80 ;,d: 8; s: 3; ?: 3; Amek: 2; teddun: 2; id: 2; izenzen: 2; gma: 2; n: 2; !: 2
+Corpus_08_benmohammedYoucef/sentences/timmeti.md ;24 ;120 ;5.00 ;,d: 8; s: 3; ?: 3; Amek: 2; teddun: 2; id: 2; izenzen: 2; gma: 2; n: 2; !: 2
+Corpus_08_benmohammedYoucef/sentences/abassi.md ;59 ;281 ;4.76 ;,d: 15; i: 8; ur: 6; Si: 6; Yettu: 6; n: 5; k: 4; wid: 4; ad: 4; id: 3
+Corpus_08_benmohammedYoucef/sentences/README.md ;4 ;12 ;3.00 ;,#: 1; sentences: 1; sentence: 1; collector: 1; This: 1; corpus: 1; is: 1; released: 1; under: 1; CC: 1

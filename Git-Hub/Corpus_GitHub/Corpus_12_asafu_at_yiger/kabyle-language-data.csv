@@ -1,0 +1,9 @@
+Fichier ;Nombre de lignes ;Nombre total de tokens ;Moyenne de tokens par ligne ;Top 10 tokens
+Corpus_12_asafu_at_yiger/kabyle-language-data/DiLmutik.md ;267 ;4803 ;17.99 ;,d: 316; ad: 231; ara: 196; i: 148; n: 104; as: 102; di: 94; is: 80; s: 80; akken: 69
+Corpus_12_asafu_at_yiger/kabyle-language-data/FerḥatMuḥli.md ;26 ;638 ;24.54 ;,n: 46; d: 42; deg: 24; i: 21; ferḥat: 13; a: 12; s: 12; agi: 10; ɣer: 10; tezlit: 8
+Corpus_12_asafu_at_yiger/kabyle-language-data/abridArTaddert.md ;46 ;2804 ;60.96 ;,d: 196; ad: 144; i: 96; aɣ: 82; s: 50; deg: 46; ur: 44; ara: 44; ɣer: 44; as: 40
+Corpus_12_asafu_at_yiger/kabyle-language-data/isefra.md ;899 ;20356 ;22.64 ;,d: 1561; ad: 917; i: 903; ara: 513; s: 386; n: 376; is: 360; ur: 317; as: 316; t: 280
+Corpus_12_asafu_at_yiger/kabyle-language-data/siwelTamacahut.md ;317 ;6948 ;21.92 ;,d: 594; i: 338; ad: 286; ara: 157; is: 144; s: 138; t: 126; n: 117; akken: 112; ur: 107
+Corpus_12_asafu_at_yiger/kabyle-language-data/taɛzibt.md ;269 ;5801 ;21.57 ;,d: 455; i: 321; ad: 256; n: 119; s: 118; ara: 116; is: 106; ur: 101; t: 88; deg: 83
+Corpus_12_asafu_at_yiger/kabyle-language-data/ArezqiBuɛam.md ;41 ;1080 ;26.34 ;,d: 93; n: 82; i: 57; deg: 35; ad: 33; s: 18; ɣer: 14; ara: 14; kra: 14; amedyaz: 10
+Corpus_12_asafu_at_yiger/kabyle-language-data/imedyazen.md ;90 ;2254 ;25.04 ;,d: 185; n: 176; i: 101; deg: 84; ad: 43; s: 38; ɣer: 28; ara: 24; ɣef: 21; kra: 18
